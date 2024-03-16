@@ -1,0 +1,21 @@
+[
+
+    {
+        "href":"https://www.facebook.com/profile.php?id=100035898098899&locale=pt_BR",
+        "path": "/imagens/sociais/facebook.svg",
+        "alt": "facebook" 
+    },
+
+    {
+        "href":"https://twitter.com/home?lang=pt",
+        "path": "/imagens/sociais/twitter.svg",
+        "alt": "twiter"
+    },
+
+    {
+        "href":"https://www.instagram.com/jou_o_b/",
+        "path": "/imagens/sociais/instagram.svg",
+        "alt": "Insta"
+    }
+
+]
